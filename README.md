@@ -5,9 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To use this app, you have to go to "api.edamam.com". Take your app_key and app_id.
 
 Create a file named "helpers.js" in the root folder, in there:
-
 export const APP_ID = your APP_ID
-
 export const APP_KEY = your APP_KEY
 
 ## Available Scripts
